@@ -10,7 +10,7 @@
 
 Cassinux is a community Linux distribution project focused on creating a customized Ubuntu/KDE experience.
 
-The name **Cassinux** comes from Cassie, a friend who inspired the project.
+The name **Cassinux** was inspired by a close friend named Cassie.
 
 ## Features
 
