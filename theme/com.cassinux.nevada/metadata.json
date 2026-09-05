@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "nikolai.malabed@aol.com",
+                "Name": "Nikolai Malabed"
+            }
+        ],
+        "Description": "The default global theme for Cassinux Nevada 26",
+        "Id": "com.cassinux.nevada",
+        "License": "GPL 3+",
+        "Name": "Cassinux Nevada",
+        "Website": "https://github.com/kurkobane94/cassinux"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "default"
+}
