@@ -1,14 +1,14 @@
 # Cassinux
 
-**Cassinux** is an experimental Ubuntu-based Linux distribution with a customized KDE Plasma desktop.
+**Cassinux** is an Ubuntu-based Linux distribution with a customized KDE Plasma desktop.
 
-> [!WARNING]
-> **Cassinux is currently in alpha development.**
-> This project is unfinished and may contain bugs, incomplete customization, and remaining Ubuntu/Kubuntu branding.
+> [!NOTE]
+> **Cassinux is archived.**
+> Development of this project has been discontinued. This repository is preserved for historical, archival, and reference purposes.
 
 ## About
 
-Cassinux is a community Linux distribution project focused on creating a customized Ubuntu/KDE experience.
+Cassinux was a community Linux distribution project focused on creating a customized Ubuntu/KDE experience.
 
 The name **Cassinux** was inspired by a close friend named Cassie.
 
@@ -21,47 +21,44 @@ The name **Cassinux** was inspired by a close friend named Cassie.
 - Customized KDE settings
 - Custom packages and configurations
 
-## Development Status
+## Development
 
-- [ ] Replace remaining Kubuntu branding
-- [ ] Add Cassinux artwork
-- [ ] Customize KDE Plasma defaults
-- [ ] Improve installer configuration
-- [ ] Create a reproducible build system
-- [ ] Test on different hardware
+Cassinux was developed using **Cubic**.
 
-## Building Cassinux
+Development included:
 
-Cassinux is currently being developed using **Cubic**.
+- Cassinux branding and artwork
+- KDE Plasma customization
+- Custom wallpapers
+- Custom packages and configurations
+- Installer configuration
+- ISO testing
 
-Build instructions will be added as the project becomes more reproducible.
+## Releases
+
+Cassinux development builds and release candidates were published through **GitHub Releases** and archival download hosts.
+
+The project included:
+
+- **Cassinux 26 Alpha 1**
+- **Cassinux 26 Nevada RC**
+
+## Archive
+
+This repository is preserved as an archive of the Cassinux project and its development history.
+
+No further development or releases are currently planned.
 
 ## Contributing
 
-Contributions are welcome!
-
-You can help with:
-
-- Bug fixes
-- KDE configuration
-- Branding and artwork
-- Package selection
-- Testing
-- Documentation
-- Build scripts
-
-Please open an **Issue** before making major changes.
-
-## Downloads
-
-Development ISO builds will be published through **GitHub Releases** or another suitable download host.
+The project is archived and is no longer actively accepting contributions.
 
 ## License
 
-License information will be added as the project develops.
+License information is provided in the repository where applicable.
 
 ## Project Status
 
-**Current version:** Cassinux 26 Alpha
+**Current version:** Cassinux 26 Nevada RC
 
-**Status:** 🚧 Work in Progress
+**Status:** 📦 Archived
